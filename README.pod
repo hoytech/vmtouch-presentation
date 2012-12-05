@@ -1,0 +1,13 @@
+=encoding utf-8
+
+=head1 NAME
+
+vmtouch-presentation - Slightly out-of-date presentation on vmtouch
+
+=head1 VIEW
+
+http://hoytech.github.com/vmtouch-presentation
+
+=head1 SOURCE
+
+https://github.com/hoytech/vmtouch-presentation/tree/gh-pages
