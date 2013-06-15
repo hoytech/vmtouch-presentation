@@ -6,7 +6,7 @@ vmtouch-presentation - Slightly out-of-date presentation on vmtouch
 
 =head1 VIEW
 
-http://hoytech.github.com/vmtouch-presentation
+http://hoytech.github.io/vmtouch-presentation
 
 =head1 SOURCE
 
